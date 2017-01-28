@@ -1,2 +1,2 @@
-# Practical-Machine-Learning-Course-Project-
-Prediction Assignment Writeup from Coursera
+# Practical Machine Learning (Course Project)
+Project for the class Practical Machine Learning in Coursera
